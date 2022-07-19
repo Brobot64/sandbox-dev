@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <ChartDem
-        location="ikorodu"
+        location="ikeja"
         chartTitle="myTitle"
         subTitle="subTitle"
         TitleH="horizontal"
